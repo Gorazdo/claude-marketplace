@@ -1,0 +1,19 @@
+{
+  "name": "gorazdo-plugins",
+  "owner": {
+    "name": "gorazdo"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by gorazdo"
+  },
+  "plugins": [
+    {
+      "name": "untangle-with-ralph-loop",
+      "source": {
+        "source": "github",
+        "repo": "gorazdo/untangle-with-ralph-loop"
+      },
+      "description": "Iterative cognitive complexity reducer and test coverage generator for TypeScript/JavaScript"
+    }
+  ]
+}
