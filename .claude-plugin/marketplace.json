@@ -14,6 +14,14 @@
         "repo": "gorazdo/untangle-with-ralph-loop"
       },
       "description": "Iterative cognitive complexity reducer and test coverage generator for TypeScript/JavaScript"
+    },
+    {
+      "name": "dossier",
+      "source": {
+        "source": "github",
+        "repo": "gorazdo/dossier"
+      },
+      "description": "Researches a codebase and adds analysis/categorization headers to each file using JSDoc or ASCII box format"
     }
   ]
 }
