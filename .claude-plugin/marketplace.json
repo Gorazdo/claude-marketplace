@@ -22,6 +22,14 @@
         "repo": "gorazdo/dossier"
       },
       "description": "Researches a codebase and adds analysis/categorization headers to each file using JSDoc or ASCII box format"
+    },
+    {
+      "name": "gary-the-gardener",
+      "source": {
+        "source": "github",
+        "repo": "gorazdo/gary-the-gardener"
+      },
+      "description": "Documentation garden keeper — audits, scaffolds, and maintains repository docs with spatial memory"
     }
   ]
 }
