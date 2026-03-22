@@ -30,6 +30,14 @@
         "repo": "gorazdo/gary-the-gardener"
       },
       "description": "Documentation garden keeper — audits, scaffolds, and maintains repository docs with spatial memory"
+    },
+    {
+      "name": "keeper",
+      "source": {
+        "source": "github",
+        "repo": "gorazdo/keeper"
+      },
+      "description": "Autonomous repository hygiene agent — scans, labels, untangles, and tends your codebase with brain-inspired memory and sleep cycles"
     }
   ]
 }
